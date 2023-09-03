@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Welcome to the SARS-Genome ML Project! This project focuses on using machine learning techniques to analyze and understand the genome sequencing of Severe Acute Respiratory Syndrome (SARS) viruses. This README file provides an overview of the project, its objectives, and how to use the provided code and resources effectively.
+Hello and welcome to the SARS-Genome ML Project! This study aims to examine and comprehend the genome sequencing of Severe Acute Respiratory Syndrome (SARS) viruses using machine learning techniques. This README file offers a description of the project, its goals, and how to efficiently use the offered code and resources.
 
 ### Project Overview
 
@@ -69,6 +69,5 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 ### Contact
 
-If you have any questions, issues, or suggestions, please contact us at [project@email.com](mailto:project@email.com).
 
 Thank you for contributing to the SARS-Genome ML Project! Your efforts will help us better understand and combat SARS viruses.
