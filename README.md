@@ -1,6 +1,6 @@
 # SARS-Genome
 
-# SARS-Genome ML Project
+# SARS-Genome
 
 ## README
 
