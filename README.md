@@ -29,7 +29,7 @@ To start working with the SARS-Genome ML project, follow these steps:
 1. **Clone the Repository**: Clone this GitHub repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/yourusername/SARS-Genome-ML.git
+   git clone https://github.com/yourusername/SARS-Genome.git
    ```
 
 2. **Install Dependencies**: Make sure you have the necessary dependencies installed. You can find the required packages listed in the `requirements.txt` file.
@@ -57,7 +57,7 @@ Here's an overview of the project directory structure:
 - **models/**: Implementation of machine learning models for genome analysis.
 - **visualization/**: Tools for creating visualizations of project results.
 - **data/**: Store your genome sequencing data here.
-- **results/**: Save model results, plots, and other important output files in this directory.
+- **results/**: Save model results, plots, and other essential output files in this directory.
 
 ### Contributing
 
@@ -70,4 +70,4 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 ### Contact
 
 
-Thank you for contributing to the SARS-Genome ML Project! Your efforts will help us better understand and combat SARS viruses.
+Thank you for contributing to the SARS-Genome ML Project! Your efforts will help us better understand and combat the SARS viruses.
